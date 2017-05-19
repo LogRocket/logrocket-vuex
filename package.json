@@ -1,6 +1,6 @@
 {
   "name": "logrocket-vuex",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "vuex plugin for [LogRocket](https://logrocket.com/).",
   "main": "dist/index.js",
   "author": "Logrocket <support@logrocket.com> (https://logrocket.com/)",
