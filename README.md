@@ -1,6 +1,6 @@
 # LogRocket vuex plugin
 
-This package augments LogRocket sessions to include actions your `vuex` store.
+This package augments LogRocket sessions to include mutations your `vuex` store.
 
 ![](http://i.imgur.com/j0I2xVW.png)
 
